@@ -1,5 +1,6 @@
 # Encoder_Java
-Navigate to src
-open cmd
-java Encoder.java
-to see output for sample input
+Navigate to src<br/>
+open cmd<br/>
+java Encoder.java<br/>
+to see output for sample input<br/>
+<br/>
